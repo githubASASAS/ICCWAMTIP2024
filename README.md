@@ -4,7 +4,7 @@
 
 ## 使用指南
 
-1. 安装 [nodejs](https://nodejs.org/zh-cn/) v16.
+1. 安装 [nodejs](https://nodejs.org/zh-cn/) v16
 
 2. 克隆这个仓库并进入这个目录
    ```shell
