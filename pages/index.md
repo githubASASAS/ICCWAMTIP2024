@@ -9,7 +9,7 @@ layout: page
 
 ## ICCWAMTIP 2024 | Chengdu, China | December 14th, 2024
 
-ICCWAMTIP 2024, The 21th International Computer Conference on Wavelet Active Media Technology and Information Processing, will take place in Chengdu, China, from December 14th, 2024. This event is organized by University of Electronic Science and Technology of China(UESTC), sponsored by The National Natural Science Foundation of China(NSFC), National High Technology Research and Development Program of China and China International Talent Exchange Foundation. ICCWAMTIP 2024 is a not-to-be-missed opportunity that distills the most current knowledge on a rapidly advancing discipline in one conference. Join key researchers and established professionals in the field of information technologies as they assess the current state-of-the-art and roadmap crucial areas for future research.
+ICCWAMTIP 2024, The 21st International Computer Conference on Wavelet Active Media Technology and Information Processing, will take place in Chengdu, China, from December 14th, 2024. This event is organized by University of Electronic Science and Technology of China(UESTC), sponsored by The National Natural Science Foundation of China(NSFC), National High Technology Research and Development Program of China and China International Talent Exchange Foundation. ICCWAMTIP 2024 is a not-to-be-missed opportunity that distills the most current knowledge on a rapidly advancing discipline in one conference. Join key researchers and established professionals in the field of information technologies as they assess the current state-of-the-art and roadmap crucial areas for future research.
 
 We aim to building an idea-trading platform for the purpose of encouraging researcher participating in this event. The papers to be presented at ICCWAMTIP past conferences addressed many grand challenges in modern engineering.
 
@@ -27,7 +27,7 @@ Affected by the epidemic, this year's conference is a bit different from the pas
 - 2022-11-26: Advance the deadline for Camera Ready submission (including payment proof submission) from Dec. 8th to Dec. 3th
 - 2023-11-8: Extanded submission deadline from Nov. 15th to Nov. 22th, and accepted notification from Nov. 20th to Nov. 30th
 - 2023-10-22: Updated time schedule about submission deadline, paper review time and author notification time in page timeline
-- 2023-9-19: Updated submission deadline from Oct. 21th to Nov. 22th, and notification date from Nov. 15th to Nov. 30th
+- 2023-9-19: Updated submission deadline from Oct. 21st to Nov. 22th, and notification date from Nov. 15th to Nov. 30th
 - 2023-09-15: Added WeChat QRCode contact method in contact page
 
 
@@ -74,7 +74,7 @@ The conference started on **December 15th from 09:00 AM to 12:30**. For authors 
 --------------------|--------------------------------------
 Submission Deadline | **December 8th**, 2024
 Notification Date   | December 15th, 2024
-Conference Ceremony | December 15th, 2024
+Conference Ceremony | December 14th, 2024
 
 ## CATALOG NUMBERS
 

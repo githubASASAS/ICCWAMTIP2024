@@ -12,6 +12,9 @@
   "license": "ISC",
   "dependencies": {
     "postcss-loader": "^3.0.0",
-    "saber": "^0.4.10"
+    "saber": "^0.4.10",
+    "vue": "2.6",
+    "vue-server-renderer": "2.6",
+    "vue-template-compiler": "2.6"
   }
 }

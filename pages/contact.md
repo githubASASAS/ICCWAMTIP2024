@@ -3,7 +3,7 @@ title: Contact
 layout: page
 ---
 
-## 2024 21th ICCWAMTIP Secretariat
+## 2024 21st ICCWAMTIP Secretariat
 
 For more information about ICCWAMTIP, feel free to contact.
 

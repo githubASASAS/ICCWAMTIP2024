@@ -4,17 +4,36 @@
 
 ## 使用指南
 
-1. 安装 [nodejs](https://nodejs.org/zh-cn/)
-   - 使用包管理器 https://nodejs.org/en/download/package-manager/
-   - Windows 下载安装包[直接安装](https://nodejs.org/en/download/package-manager/#windows)，或者使用 `Chocolatey` 或 `scoop`
+1. 安装 [nodejs](https://nodejs.org/zh-cn/) v16.
 
-2. 安装 [yarn](https://yarnpkg.com/) https://yarnpkg.com/getting-started/install
-3. 克隆这个仓库并进入这个目录
+2. 克隆这个仓库并进入这个目录
    ```shell
    $ git clone git@github.com:waveletlab-uestc/waveletlab-webbuilder.git
    $ cd waveletlab-webbuilder
    ```
 
+3. 安装依赖
+   ```shell
+   $ npm i
+   ```
+
+4. 开发服务器
+   ```shell
+   $ npm run dev
+   ```
+
+## 打包部署
+
+1. 打包
+   ```shell
+   $ npm run build
+   ```
+
+2. 部署
+
+将 public 文件夹上传到服务器
+
+<!-- 
 4. 修改 `build.sh` 文件中的 `DEPLOY_PATH` 变量为部署的文件夹
    1. 克隆部署网站的仓库到某个位置
       ```shell
@@ -39,4 +58,4 @@
 
 ## build.sh
 
-关于更多 `./build.sh` 的用法，请见 `./build.sh help`.
+关于更多 `./build.sh` 的用法，请见 `./build.sh help`. -->
